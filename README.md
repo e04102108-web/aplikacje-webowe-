@@ -1,3 +1,2 @@
-# aplikacje-webowe-
-# aplikacje_desktopowe
-# aplikacje_desktopowe
+# aplikacje-webowe-desktopowe
+
